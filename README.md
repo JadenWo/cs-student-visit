@@ -4,8 +4,12 @@ This is my great project!
 
 ## How to compile
 
-- TODO:
+```bash
+javac Hello.java
+```
 
 ## How to run
 
-- TODO:
+```bash
+java Hello
+```
